@@ -8,12 +8,15 @@ git clone git@github.com:AustinCodingAcademy/ALPHA-Q.git
 ```
 Follow these steps to [generate ssh key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
-Launch the dev server
-
 ```
 cd ALHA-Q
 ```
+Install Dependencies Locally:
+```
+npm install
+```
 
+Launch the dev server
 ```
 npm run
 ```
