@@ -1,21 +1,21 @@
-## Get Started
+## Initial Setup
 From the command line: 
 
-Install [node](https://nodejs.org/en/)
+1. Install [node](https://nodejs.org/en/)
 
+2. Follow these steps to [generate ssh key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 ``` 
 git clone git@github.com:AustinCodingAcademy/ALPHA-Q.git
 ```
-Follow these steps to [generate ssh key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
 ```
 cd ALHA-Q
 ```
-Install Dependencies Locally:
+3. Install Dependencies Locally:
 ```
 npm install
 ```
-
+## Server Launch
 Launch the dev server
 ```
 npm run
