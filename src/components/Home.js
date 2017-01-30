@@ -1,6 +1,5 @@
 import React, { Component }     from 'react';
 import { Link }                 from 'react-router'
-import logo                     from '../logo.svg';
 import '../App.css';
 
 export default class Home extends Component {
@@ -8,7 +7,6 @@ export default class Home extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
           <h2>Adopt a Pet</h2>
             <ul role="nav">
                 <li><Link to="/">Home</Link></li>
