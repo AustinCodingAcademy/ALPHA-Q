@@ -3,15 +3,14 @@ From the command line:
 
 1. Install [node](https://nodejs.org/en/)
 
-2. Follow these steps to [generate ssh key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 ``` 
-git clone git@github.com:AustinCodingAcademy/ALPHA-Q.git
+git clone https://github.com/AustinCodingAcademy/ALPHA-Q.git
 ```
 
 ```
 cd ALHA-Q
 ```
-3. Install Dependencies Locally:
+2. Install Dependencies Locally:
 ```
 npm install
 ```
