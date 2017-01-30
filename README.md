@@ -17,7 +17,7 @@ npm install
 ## Server Launch
 Launch the dev server
 ```
-npm run
+npm start
 ```
 ## Git
 
