@@ -1,5 +1,5 @@
 import React, { Component }     from 'react';
-import { Link }                 from 'react-router'
+import { Link }                 from 'react-router';
 import '../App.css';
 
 export default class Home extends Component {
@@ -8,7 +8,7 @@ export default class Home extends Component {
       <div className="App">
         <div className="App-header">
           <h2>Adopt a Pet</h2>
-            <ul role="nav">
+            <ul>
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/about">About</Link></li>
             </ul>
@@ -17,6 +17,7 @@ export default class Home extends Component {
           We love React!
         </p>
       </div>
+
     );
   }
 }
