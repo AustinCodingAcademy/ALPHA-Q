@@ -1,9 +1,9 @@
 ## Initial Setup
-From the command line: 
+From the command line:
 
 1. Install [node](https://nodejs.org/en/)
 
-``` 
+```
 git clone https://github.com/AustinCodingAcademy/ALPHA-Q.git
 ```
 
@@ -46,9 +46,9 @@ git checkout <branch name>
 Remember to pull from master every day and update your branch &
 resolve any merge conflicts.
 
-``` 
-$ git checkout master 
-$ git pull 
+```
+$ git checkout master
+$ git pull
 $ git checkout <your branch>
 $ git merge master
 
@@ -57,14 +57,13 @@ $ git merge master
 
 ```
  $ git status
- $ git add <files to add> 
- $ git commit -m "added login functionality" 
+ $ git add <files to add>
+ $ git commit -m "added login functionality"
  $ git push origin <branch name>
  ```
 ## Recommendations
 
 - Use an IDE (i.e. Webstorm) or an advanced text editor like Sublime or Atom
-- Taking this [course](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command) will 
+- Taking this [course](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command) will
 save you so much time and headache
 - download iterm (or if you want to get crazy hyper.js) & spectacle
- 

@@ -1,0 +1,43 @@
+.container-fluid {
+  padding: 0;
+}
+
+.jumbotron {
+  background-image: url('../pics/bg-dog1.jpg');
+  color: white;
+  margin: 0;
+  min-height: 625px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.formbox {
+  background-color: rgba(255, 255, 255, 0.4);
+  height: 35vh;
+}
+
+#card {
+  margin-top: 10px;
+  background-color: #e8faff;
+}
+
+#text {
+  margin-top: 10px;
+  background-color: #e8faff;
+}
+
+#cardinfo {
+  margin-left: 3px;
+  margin-top: 5px;
+  background-color: #e8faff;
+}
+
+#nam {
+  background-color: #e8faff;
+}
+
+#amt {
+  background-color: #e8faff;
+}
