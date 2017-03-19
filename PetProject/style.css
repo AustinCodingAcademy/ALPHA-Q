@@ -1,0 +1,65 @@
+.jumbotron {
+  background-image: url('../pics/bg-dog1.jpg');
+  margin: 0;
+  min-height: 625px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.formbox {
+  width: 600px;
+  height: 140px;
+  border: 1px solid black;
+  margin-left: 250px;
+  background-color: #d3e9ff;
+}
+
+#firstname {
+  width: 275px;
+  height: 50px;
+  background-color: #e8faff;
+  margin-top: 10px;
+}
+
+#lastname {
+  width: 275px;
+  height: 50px;
+  background-color: #e8faff;
+}
+
+#amount {
+  width: 555px;
+  margin-top: 10px;
+  background-color: #e8faff;
+  margin-left: -5px;
+}
+
+#submit {
+  background-color: red;
+}
+
+#card {
+  margin-top: 10px;
+  background-color: #e8faff;
+}
+
+#text {
+  margin-top: 10px;
+  background-color: #e8faff;
+}
+
+#cardinfo {
+  margin-left: 3px;
+  margin-top: 5px;
+  background-color: #e8faff;
+}
+
+#nam {
+  background-color: #e8faff;
+}
+
+#amt {
+  background-color: #e8faff;
+}
